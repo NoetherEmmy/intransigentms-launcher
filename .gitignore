@@ -303,3 +303,7 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+
+# Data
+*.json
+*.p12
